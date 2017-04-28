@@ -25,4 +25,5 @@ Ideas for thr future could be:
 
 Travis status
 ------
+[![Build Status](https://travis-ci.org/jmahlitz/Ashen.svg?branch=master)](https://travis-ci.org/jmahlitz/Ashen)
 
