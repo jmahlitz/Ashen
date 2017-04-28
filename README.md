@@ -5,6 +5,7 @@ Ashen is a Software for Managing Trampolin Tournaments
 and it comes from the Trampoline group of the University of Stuttgart.
 
 Why ?:
+------
 In the current situation the task of administrating registration, payment, billets, matching and ranking of a trampolin tournament a hell lot of work.
 At the current situation we need aorund 4-6 people to do this stuff for 4-5 hours per day at tournament days. For example when a registration changes,
 due to illnes or similar events of the participents, people have to manually recalculate the bills for the whole University. And it is unquestioned that such bills have to be correct.
@@ -12,6 +13,7 @@ due to illnes or similar events of the participents, people have to manually rec
 - more to follow in future
 
 But what now ?
+------
 The idea is to create a software which can help automate the most time critical things such as automated registration, correct billing, matching and automated printing of the winners certificates.
 When a future release is able to do such things, it could be developed much further.
 Ideas for thr future could be:
@@ -23,4 +25,5 @@ Ideas for thr future could be:
 
 
 Travis build status:
+------
 
