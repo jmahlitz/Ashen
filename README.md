@@ -1,14 +1,13 @@
 Ashen
 =====
 
-Ashen is a Software for Managing Trampolin Tournaments
-and it comes from the Trampoline group of the University of Stuttgart.
+Ashen is a Software for Managing Trampoline Tournaments from Trampolin Uni Stuttgart.
 
 Why ?:
 ------
-In the current situation the task of administrating registration, payment, billets, matching and ranking of a trampolin tournament a hell lot of work.
-At the current situation we need aorund 4-6 people to do this stuff for 4-5 hours per day at tournament days. For example when a registration changes,
-due to illnes or similar events of the participents, people have to manually recalculate the bills for the whole University. And it is unquestioned that such bills have to be correct.
+In the current situation the task of administrating registration, payment, billets, matching and ranking of a trampoline tournament a hell lot of work.
+At the current situation we need around 4-6 people to do this stuff for 4-5 hours per day at tournament days. For example when a registration changes,
+due to illness or similar events of the participants, people have to manually recalculate the bills for the whole University. And it is unquestioned that such bills have to be correct.
 
 - more to follow in future
 
