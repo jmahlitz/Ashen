@@ -2,6 +2,7 @@ Ashen
 =====
 
 Ashen is a Software for Managing Trampoline Tournaments from Trampolin Uni Stuttgart.
+[![Build Status](https://travis-ci.org/jmahlitz/Ashen.svg?branch=master)](https://travis-ci.org/jmahlitz/Ashen)
 
 Current Situation
 ------
@@ -21,9 +22,4 @@ Ideas for thr future could be:
 - automated payment integration
 - status replies over mail (who is registered already, is our registration correct , are teams correct and so on)
 
-
-
-Travis status
-------
-[![Build Status](https://travis-ci.org/jmahlitz/Ashen.svg?branch=master)](https://travis-ci.org/jmahlitz/Ashen)
 
